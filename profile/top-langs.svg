@@ -122,11 +122,11 @@
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">TypeScript</text>
-      <text x="215" y="34" class="lang-name">971.3 KB</text>
+      <text x="215" y="34" class="lang-name">899.8 KB</text>
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="81.35895613164678%">
+      <svg data-testid="lang-progress" width="68.2433778648146%">
         <rect
             height="8"
             fill="#3178c6"
@@ -140,15 +140,15 @@
     </g>
   </g><g transform="translate(0, 40)">
     <g class="stagger" style="animation-delay: 600ms">
-      <text data-testid="lang-name" x="2" y="15" class="lang-name">Rust</text>
-      <text x="215" y="34" class="lang-name">188.5 KB</text>
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">Go</text>
+      <text x="215" y="34" class="lang-name">230.3 KB</text>
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="15.786128382849892%">
+      <svg data-testid="lang-progress" width="17.463342446029312%">
         <rect
             height="8"
-            fill="#dea584"
+            fill="#00ADD8"
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
             style="animation-delay: 900ms;"
@@ -159,15 +159,15 @@
     </g>
   </g><g transform="translate(0, 80)">
     <g class="stagger" style="animation-delay: 750ms">
-      <text data-testid="lang-name" x="2" y="15" class="lang-name">JavaScript</text>
-      <text x="215" y="34" class="lang-name">34.1 KB</text>
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">Rust</text>
+      <text x="215" y="34" class="lang-name">188.5 KB</text>
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="2.854915485503328%">
+      <svg data-testid="lang-progress" width="14.293279689156089%">
         <rect
             height="8"
-            fill="#f1e05a"
+            fill="#dea584"
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
             style="animation-delay: 1050ms;"
